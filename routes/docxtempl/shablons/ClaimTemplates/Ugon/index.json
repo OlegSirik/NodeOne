@@ -1,0 +1,6 @@
+{ "dir": "folder1",
+  "files": [
+{ "file": { "flpath":"OpisUgon.docx", "flname":"Опись Угон", "fltype": "file"}},
+{ "file": { "flpath":"AbandonUgon.docx", "flname":"Абандон - Обязательство вернуть ТС в случае его", "fltype": "file"}},
+{ "file": { "flpath":"IzveshenieUgon.docx", "flname":"ИЗВЕЩЕНИЕ О ХИЩЕНИИ (УГОНЕ) ", "fltype": "file"}}
+]}

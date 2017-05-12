@@ -1,0 +1,6 @@
+{ "dir": "folder1",
+  "files": [
+{ "file": { "flpath":"ZajavkaExpertImushestvo.docx", "flname":"Заявка на экспертизу Имущество Немотор", "fltype": "file"}},
+{ "file": { "flpath":"OpisImushestvo.docx", "flname":"Опись_Имущество_Немотор", "fltype": "file"}},
+{ "file": { "flpath":"ZajavkaOStrahSluchaeImushestvo.docx", "flname":"Заявление о страховом случае по имуществу немотор", "fltype": "file"}}
+]}

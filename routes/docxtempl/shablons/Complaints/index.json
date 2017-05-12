@@ -1,0 +1,17 @@
+{ "dir": "folder1",
+  "files": [
+{ "file": { "flpath":"BothVina.docx"  , "flname":"обоюдная ВИНА", "fltype": "file"}},
+{ "file": { "flpath":"BothNevina.docx", "flname":"обоюдная НЕВИНА", "fltype": "file"}},
+{ "file": { "flpath":"OSAGOTotal.docx", "flname":"ОСАГО тоталь", "fltype": "file"}},
+{ "file": { "flpath":"PVUDoplata.docx", "flname":"ПВУ доплата", "fltype": "file"}},
+{ "file": { "flpath":"PVUOtkazAndRemont.docx", "flname":"ПВУ отказ в доплате с предложением ремонта", "fltype": "file"}},
+{ "file": { "flpath":"PVUOtkazDoplata.docx"  , "flname":"ПВУ отказ в доплате", "fltype": "file"}},
+{ "file": { "flpath":"PVUPovtorZapros.docx"  , "flname":"ПВУ повторный запрос в компанию виновника", "fltype": "file"}},
+{ "file": { "flpath":"PismoObiazatelstvo.docx", "flname":"ПИСЬМО-ОБЯЗАТЕЛЬСТВО", "fltype": "file"}},
+{ "file": { "flpath":"PromOtvet.docx"   , "flname":"Промежуточный ответ", "fltype": "file"}},
+{ "file": { "flpath":"PSOnoDefects.docx", "flname":"ПСО в ЛО не внесены повреждения", "fltype": "file"}},
+{ "file": { "flpath":"Trassologia.docx" , "flname":"трасология (образец по ПВУ)", "fltype": "file"}},
+{ "file": { "flpath":"UTSPay.docx"  , "flname":"УТС оплачиваем", "fltype": "file"}},
+{ "file": { "flpath":"UTSOtkaz.docx", "flname":"УТС отказ ОСАГО", "fltype": "file"}},
+{ "file": { "flpath":"ShablonCessija.docx", "flname":"Шаблон-цессия нет платежного документа", "fltype": "file"}}
+]}

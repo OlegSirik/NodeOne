@@ -1,0 +1,8 @@
+{ "dir": "Policy\\Taxi",
+  "files": [
+{ "file": { "flpath":"TaxiKaskoNoClaim.docx"  , "flname":"ТАКСИСТ (КАСКО, нет убытка)", "fltype": "file"}},
+{ "file": { "flpath":"TaxiOSAGONoInfo.docx", "flname":"ТАКСИСТ (ОСАГО), нет информации по лицензии", "fltype": "file"}},
+{ "file": { "flpath":"TaxiOSAGONoClaim.docx", "flname":"ТАКСИСТ (ОСАГО, нет убытка)", "fltype": "file"}},
+{ "file": { "flpath":"TaxiOSAGOClaim.docx", "flname":"ТАКСИСТ (ОСАГО, убыток)", "fltype": "file"}},
+{ "file": { "flpath":"TaxiOSAGOandKASKONoClaim.docx", "flname":"ТАКСИСТ (ОСАГО+КАСКО, нет убытка)", "fltype": "file"}},
+]}

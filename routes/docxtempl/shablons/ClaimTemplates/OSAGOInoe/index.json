@@ -1,0 +1,5 @@
+{ "dir": "folder1",
+  "files": [
+{ "file": { "flpath":"OpisInoe.docx", "flname":"Опись Иное имущество", "fltype": "file"}},
+{ "file": { "flpath":"ZajavkaNaViplatuInoe.docx", "flname":"Заявление На Выплату ОСАГО Иное имущество", "fltype": "file"}}
+]}

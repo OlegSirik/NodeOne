@@ -1,0 +1,50 @@
+<html><body><p>Каталогизация файлов на полис.</p>
+<form action="http://smosrep01:3000/atlantis/v1/fs/file_upload" method="post" enctype="multipart/form-data" name="loadFF" id="loadFF">
+<table>
+<tr><td>Название пакета документов:</td><td><input type="text" name="commName" style="width: 500px;margin-top: 5px;margin-bottom: 5px;" value="Загружено через Atlantis"></td></tr>
+<tr><td>Тип документа:</td><td>
+<select name="docTypeId" size="1"  style="width: 500px;margin-top: 5px;margin-bottom: 5px;">
+
+<option value="5031291">Запрос сведений о страховании от имени клиента</option>
+<option value="5033051">Памятка по Cash back</option>
+<option value="5033542">MMF полное КАСКО Дополнительное соглашение</option>
+<option value="5033543">MMF частичное КАСКО Дополнительное соглашение</option>
+<option value="5033544">MMF урезанное КАСКО Дополнительное соглашение</option>
+<option value="5033545">Копия MMF полное КАСКО Дополнительное соглашение</option>
+<option value="5033546">Копия MMF частичное КАСКО Дополнительное соглашение</option>
+<option value="5033547">Копия MMF урезанное КАСКО Дополнительное соглашение</option>
+<option value="5033548">Заявление на изменение ОСАГО полиса MMF</option>
+<option value="5032251">Взаимозачёт премии по выплате убытка</option>
+<option value="5030127">Анкета на выпуск банковской карты МКБ</option>
+<option value="5030185">Квитанция А7 ФО</option>
+<option value="5030431">Печать квитанции А7 - оплата наличными</option>
+<option value="5030432">Печать квитанции А7 - оплата банковской картой</option>
+<option value="5030564">ОСАГО А7  оплата наличными</option>
+<option value="5030565">ОСАГО А7  оплата банковской картой</option>
+<option value="5033081">Памятка по Endorsements для сотрудников салона</option>
+<option value="5150032">Лист осмотра ОСАГО MMF</option>
+<option value="5150037">Лист осмотра Пакет MMF</option>
+<option value="5150042">Лист осмотра КАСКО MMF</option>
+<option value="5034551">Квитанция А7 (Каско, ручное событие)</option>
+<option value="5031051">Лист осмотра ОСАГО</option>
+<option value="5032641">MMF полное КАСКО</option>
+<option value="5032642">MMF Частичное КАСКО</option>
+<option value="5032653">MMF урезанное КАСКО</option>
+<option value="5032821">Копия MMF урезанное КАСКО</option>
+<option value="5032822">Копия MMF полное КАСКО</option>
+<option value="5032823">Копия MMF Частичное КАСКО</option>
+<option value="5033266">Страховой полис ОСАГО MMF</option>
+<option value="5033267">Копия страхового полиса ОСАГО MMF</option>
+<option value="5033268">Заявление о заключении договора ОСАГО MMF</option>
+
+</select></td></tr>
+<tr><td>Файлы для загрузки:</td><td><input id="upload-input" type="file" name="uploads[]" multiple="multiple"</td></tr>
+</table>
+
+<input type="hidden" name="contactId" value="#{contactId}">
+<input type="hidden" name="policyId" value="#{policyId}">
+<input type="hidden" name="systemModule" value="POLICY">
+
+<input type="submit"  value="Загрузить файлы">
+
+</form></body></html>

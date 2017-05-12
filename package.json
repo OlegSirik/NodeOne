@@ -1,0 +1,29 @@
+{
+  "name": "brunhilda",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "docxtemplater": "file:node_modules\\docxtemplater",
+    "express": "~4.14.1",
+    "jade": "~1.11.0",
+    "jszip": "^2.6.1",
+    "morgan": "~1.7.0",
+    "multer": "^0.1.6",
+    "serve-favicon": "~2.3.2",
+    "shortid": "2.2.8",
+    "soap": "0.18.0",
+    "formidable": "1.1.1",
+    "jsontoxml": "0.0.11"
+  },
+  "description": "Services for APEX applications",
+  "main": "app.js",
+  "devDependencies": {},
+  "author": "osirik",
+  "license": "ISC"
+}

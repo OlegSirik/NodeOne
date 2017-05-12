@@ -1,0 +1,6 @@
+Hello Node
+
+npm init
+
+smosrep01
+forever start ./bin/www

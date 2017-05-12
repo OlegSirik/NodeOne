@@ -41,8 +41,8 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/ls', function(req, res, next) {
-// С‚РµСЃС‚РѕРІС‹Р№ РјРµС‚РѕРґ
-// РїР°РїРєР° СЃ С€Р°Р±Р»РѕРЅР°РјРё
+// тестовый метод
+// папка с шаблонами
 var dir_content = path.resolve(__dirname, "./shablons/");
 
 var walkSync = function(dir, dir2, filelist) {
@@ -69,7 +69,7 @@ var walkSync = function(dir, dir2, filelist) {
 	
 var currentDir = function(req) {
 
-	var v_startpoint = req.body.startpoint; // РѕС‚ СЌС‚РѕРіРѕ Р·Р°РІРёСЃРёС‚ СЃС‚Р°СЂС‚РѕРІС‹Р№ РєР°С‚Р°Р»РѕРі
+	var v_startpoint = req.body.startpoint; // от этого зависит стартовый каталог
 	var v_folder = req.body.folder;
 	var v_dir_content = ""; //path.resolve(__dirname, "./dummy/"); 
 

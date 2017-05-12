@@ -1,0 +1,10 @@
+{ "dir": "тестовая папка",
+  "files": [
+{ "file": { "flpath":"complaints"   , "flname":"Претензии", "fltype": "folder"}},
+{ "file": { "flpath":"folder2"   , "flname":"Документы по убытку", "fltype": "folder"}},
+{ "file": { "flpath":"PVU"   , "flname":"ПВУ", "fltype": "folder"}},
+{ "file": { "flpath":"Imushestvo", "flname":"имущество не мотор", "fltype": "folder"}},
+{ "file": { "flpath":"OSAGOZiz"  , "flname":"ОСАГО ЖиЗ", "fltype": "folder"}},
+{ "file": { "flpath":"OSAGOInoe" , "flname":"ОСАГО иное имущество", "fltype": "folder"}},
+{ "file": { "flpath":"Ugon"      , "flname":"Угон", "fltype": "folder"}}
+]}

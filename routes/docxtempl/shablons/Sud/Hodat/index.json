@@ -1,0 +1,9 @@
+{ "dir": "Документы по полису",
+  "files": [
+{ "file": { "flpath":"Hodat1.docx"   , "flname":"Ходатайство о направлении иска ответчику", "fltype": "file"}},
+{ "file": { "flpath":"Hodat2.docx"   , "flname":"Ходатайство об отложении судебного заседания", "fltype": "file"}},
+{ "file": { "flpath":"Hodat3.docx"   , "flname":"Ходатайство о выдаче судебного акта", "fltype": "file"}},
+{ "file": { "flpath":"Hodat4.docx"   , "flname":"Ходатайство об отмене заочного решения", "fltype": "file"}},
+{ "file": { "flpath":"AppZaloba.docx", "flname":"Аппеляционная жалоба", "fltype": "file"}},
+{ "file": { "flpath":"SoprovodList.docx", "flname":"Сопроводительный лист по делу", "fltype": "file"}}
+]}

@@ -1,0 +1,5 @@
+{ "dir": "Документы по полису",
+  "files": [
+{ "file": { "flpath":"Hodat"   , "flname":"Ходатайства", "fltype": "folder"}},
+{ "file": { "flpath":"Vozraz"   , "flname":"Возражения", "fltype": "folder"}}
+]}
